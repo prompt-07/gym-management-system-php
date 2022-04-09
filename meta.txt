@@ -1,0 +1,17 @@
+admin
+admin123
+
+admin2
+admin456
+
+http://localhost/gym/login.php
+
+
+
+______________________________________
+INSERT INTO `members`(`id`, `member_id`, `firstname`, `middlename`, `lastname`, `gender`, `contact`, `address`, `email`, `date_created`) VALUES ('4','59430247','Sahil','L','Parab','[value-6]','Male','+919768935038','test','test')
+INSERT INTO `users` (`id`, `name`, `username`, `password`, `type`) VALUES ('2', 'Staff1', 'staff123', 'de9bf5643eabf80f4a56fda3bbb84483', '2');
+
+
+
+
